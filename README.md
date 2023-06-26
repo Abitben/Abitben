@@ -16,7 +16,7 @@
 <img src="https://seeklogo.com/images/A/airbyte-logo-CC005A0105-seeklogo.com.png" alt="Airbyte" width="40" height="40">
 <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="Looker" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40">
-<img src="https://fr.wikipedia.org/wiki/Apache_Airflow#/media/Fichier:AirflowLogo.png" alt="Airflow" width="40" height="40">
+<img src="https://avatars.githubusercontent.com/u/33643075?s=200&v=4" alt="Airflow" width="40" height="40">
 </p>
 
 <h3 align="left">Languages and Tools (Full Stack):</h3>
